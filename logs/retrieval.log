@@ -1,0 +1,20 @@
+2025-10-11 20:17:52,074 INFO [RET] intent :: {"allowed_sections": [], "sec_nodes": []}
+2025-10-11 20:17:52,077 INFO [RET] final_hits
+2025-10-11 20:17:57,289 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 20:17:57,347 INFO [RET] timing :: {"intent": 0.06, "context": 0.0, "llm": 5269.67, "total": 5308.68}
+2025-10-12 00:25:09,043 INFO [RET] intent :: {"allowed_sections": [], "sec_nodes": []}
+2025-10-12 00:25:09,058 INFO [RET] final_hits
+2025-10-12 00:25:15,118 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-12 00:25:15,194 INFO [RET] timing :: {"intent": 0.41, "context": 0.24, "llm": 6134.37, "total": 6178.87}
+2025-10-12 00:25:56,405 INFO [RET] intent :: {"allowed_sections": [], "sec_nodes": []}
+2025-10-12 00:25:56,405 INFO [RET] final_hits
+2025-10-12 00:25:59,173 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-12 00:25:59,176 INFO [RET] timing :: {"intent": 0.02, "context": 0.0, "llm": 2770.43, "total": 2774.86}
+2025-10-12 00:26:47,784 INFO [RET] intent :: {"allowed_sections": [], "sec_nodes": []}
+2025-10-12 00:26:47,784 INFO [RET] final_hits
+2025-10-12 00:26:52,611 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-12 00:26:52,615 INFO [RET] timing :: {"intent": 0.01, "context": 0.0, "llm": 4830.02, "total": 4862.27}
+2025-10-12 00:27:15,433 INFO [RET] intent :: {"allowed_sections": [], "sec_nodes": []}
+2025-10-12 00:27:15,434 INFO [RET] final_hits
+2025-10-12 00:27:19,590 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-12 00:27:19,593 INFO [RET] timing :: {"intent": 0.34, "context": 0.0, "llm": 4159.01, "total": 4161.87}
